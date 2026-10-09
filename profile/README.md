@@ -24,6 +24,6 @@ Early-stage. Local/testnet-only in this phase — no support for mainnet account
 
 ## Contributing
 
-Issues are labeled by scope in each repo. If you're here from a Wave program, check the issue tracker in the relevant repo — `stellaryard-core` for backend/API work, `stellaryard-dashboard` for frontend, `stellaryard-cli` for CLI commands. Each repo's `ARCHITECTURE_ESSENTIALS.md` is meant to be a fast reference before you start, not the full doc.
+Issues are labeled by scope in each repo. To contribute, check the issue tracker in the relevant repo — `stellaryard-core` for backend/API work, `stellaryard-dashboard` for frontend, `stellaryard-cli` for CLI commands. Each repo's `ARCHITECTURE_ESSENTIALS.md` is meant to be a fast reference before you start, not the full doc.
 
 Licensed under Apache 2.0.
